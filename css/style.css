@@ -47,3 +47,16 @@ footer {
     padding: 15px;
     margin-top: 30px;
 }
+.button {
+    display: inline-block;
+    background-color: #00509e;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #003366;
+}
